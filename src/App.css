@@ -43,7 +43,7 @@ p.head{
   letter-spacing: 0.9px;
   color: rgba(46, 4, 4, 0.692);
   display: inline-block; /* Ensures that the element rotates around its center */
-  animation: rotate360 5s linear infinite; /* 2 seconds, linear timing, infinite loop */
+/*   animation: rotate360 5s linear infinite; /* 2 seconds, linear timing, infinite loop */ */
 }
 
 /* @keyframes rotate360 {
