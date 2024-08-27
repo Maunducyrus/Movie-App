@@ -3,6 +3,7 @@ import React, { useState, useEffect } from 'react';
 import searchIcon from './search.svg'; // Ensure this import is correct
 import MovieCard from './MovieCard'; // Assuming MovieCard is in the same directory
 
+// external css called here
 import './App.css';
 
 const API_URL = 'http://www.omdbapi.com/?apikey=51ed4b1d';
